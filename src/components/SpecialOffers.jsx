@@ -26,8 +26,7 @@ function SampleNextArrow(props) {
       <div
         className="absolute top-[50%] left-0 translate-y-[-50%] z-[9] bg-black text-white p-2 rounded-full text-sm md:text-md lg:text-2xl cursor-pointer"
         onClick={onClick}>
-         
-          <MdArrowForwardIos />
+         <MdArrowForwardIos />
       </div>
     );
   }
@@ -96,9 +95,8 @@ function SampleNextArrow(props) {
         <div className='px-1' >
             <a href='#'><img  src={Spimg4} alt='#'/></a>
         </div>
-      
-        </Slider>
-      </div>
+     </Slider>
+     </div>
     </Container>
  </section>
   )
