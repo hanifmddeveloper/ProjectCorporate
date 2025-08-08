@@ -1,9 +1,9 @@
 import React from 'react'
 import Container from "../components/Container"
-import Spimg1 from "../assets/Spimg1.png"
-import Spimg2 from "../assets/Spimg2.png"
-import Spimg3 from "../assets/Spimg3.png"
-import Spimg4 from "../assets/Spimg4.png"
+import Spimg1 from "../assets/spimg1.png"
+import Spimg2 from "../assets/spimg2.png"
+import Spimg3 from "../assets/spimg3.png"
+import Spimg4 from "../assets/spimg4.png"
 import Slider from 'react-slick';
 import { MdArrowBackIosNew, MdArrowForwardIos } from 'react-icons/md'
 
